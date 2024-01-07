@@ -1,11 +1,11 @@
 ## I'm Mufaddal 
-I am student at Crescent University, Chennai.
-I am pursuing B Sc Computer Science.
-My area of interest are Big Data, Analysis,Cricket and Mototsport Racing.
+I am student at Crescent University, Chennai.  
+I am pursuing B Sc Computer Science.  
+My area of interest are Big Data, Analysis,Cricket and Mototsport Racing.  
 My hobbies are reading books and playing badminton and video games.
 
 
-## What I'm working on skills
+## I'm working on skills
 Web Development for building websites.  
 
 IBM Professional Certificate for Data Science through Coursera Online Class
